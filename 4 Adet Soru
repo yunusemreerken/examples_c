@@ -1,4 +1,3 @@
-//Algoritmalar ve C programlama Ödevi 2
 
 
 
@@ -12,7 +11,7 @@
 int main ()
 {
         int girilensayi,bölünensayi,bölensayi,kalan,sayim=0;
-    printf("Bir sayi giriniz: ");
+        printf("Bir sayi giriniz: ");
         scanf_s("%d",&girilensayi);
         //buradaki bölünensayi asal olup olmadığı araştırılıcak olan sayıdır
         for ( bölünensayi = 2; bölünensayi < girilensayi; bölünensayi++)//dis döngüdeyiz
