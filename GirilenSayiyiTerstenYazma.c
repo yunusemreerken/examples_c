@@ -7,6 +7,7 @@ printf("istedigin basamakta sayi girin:");
 scanf("%d",&sayi);
 
 while(sayi>=1)
+
 {
 birler=sayi%10;
 gec=gec*10+birler;
